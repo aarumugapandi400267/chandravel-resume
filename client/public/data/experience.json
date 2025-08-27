@@ -1,0 +1,14 @@
+[
+  {
+    "role": "System Analyst & Software Developer",
+    "company": "Academic Project – Hospital Management System",
+    "duration": "Academic Project",
+    "description": "Analyzed requirements and translated them into technical specifications. Developed software modules by writing and testing code based on project specifications."
+  },
+  {
+    "role": "Quality Assurance Tester",
+    "company": "Academic Project – Leaf Disease Technology",
+    "duration": "Academic Project",
+    "description": "Tested the software to identify and fix bugs, ensuring functionality and performance of the leaf disease detection system."
+  }
+]

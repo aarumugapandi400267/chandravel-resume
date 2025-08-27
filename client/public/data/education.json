@@ -1,0 +1,20 @@
+[
+  {
+    "degree": "B.Tech | Information Technology",
+    "institution": "Sri Shanmugha College of Engineering and Technology (Anna University)",
+    "duration": "2021 – 2025",
+    "details": "CGPA: 7.5"
+  },
+  {
+    "degree": "Higher Secondary | State Board",
+    "institution": "Municipal Boys Higher Secondary School",
+    "duration": "2020 – 2021",
+    "details": "Percentage: 71.5%"
+  },
+  {
+    "degree": "Secondary School | State Board",
+    "institution": "Municipal Boys Higher Secondary School",
+    "duration": "2018 – 2019",
+    "details": "Percentage: 50%"
+  }
+]

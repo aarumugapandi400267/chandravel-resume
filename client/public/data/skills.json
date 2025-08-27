@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Programming & Web Development",
+    "level": "Intermediate",
+    "keywords": ["Java", "SQL", "HTML", "CSS"]
+  },
+  {
+    "name": "Productivity Tools",
+    "level": "Intermediate",
+    "keywords": ["MS Word", "MS Excel", "MS PowerPoint", "MS Access"]
+  }
+]

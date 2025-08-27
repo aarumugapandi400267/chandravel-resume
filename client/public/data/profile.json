@@ -1,0 +1,23 @@
+{
+  "name": "Chandravel Perumal",
+  "title": "Java Full Stack Developer",
+  "profileImage": "/data/profile.png", 
+  "social": {
+    "github": "https://github.com/CHANDRAVEL828205",
+    "linkedin": "https://www.linkedin.com/in/chandravel-perumal-250b9a24a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    "website": ""
+  },
+  "sections": {
+    "experience": "Mini Projects",
+    "education": "Education",
+    "skills": "Technical Skills",
+    "certifications": "Certifications",
+    "projects": "Projects",
+    "contact": "Let's Connect"
+  },
+  "contactText": "Open to internships, entry-level developer roles, and collaborative projects.",
+  "buttons": {
+    "viewCertificate": "View Certificate",
+    "github": "GitHub"
+  }
+}
